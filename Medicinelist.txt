@@ -1,0 +1,10 @@
+11;Fenterol;Asthma;29;Vapour;Germany;23.6.2019;2000;30;
+19;Opdivo;Cancer;55;Liquid;England;4.18.2019;500;50;
+20;Ibrance;Cancer;76;Solid;European;5.12.2019;500;85;
+29;Ventolin Inhaler;Asthma;11;Vapour;Germany;1.3.2019;2000;35;
+35;Paplate;Fever;38;Solid;China;24.5.2019;500;69;
+43;Paplate;Fever;35;Liquid;China;4.6.2020;700;35;
+45;Duviral;AIDS;55;Solid;UK;23.9.2018;500;120;
+55;Neviral;AIDS;45;Solid;UK;5.6.2018;500;120;
+69;Skinception;Chinkenpox;72;Liquid;China;12.1.2020;1500;59;
+72;Calamine lotion;Chidkenpox;69;Liquid;US;4.8.2019;2000;90;

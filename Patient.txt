@@ -1,0 +1,5 @@
+45;U Maung Hla;Yangon;09799586616;56;Male;Cancer
+46;Daw Phyo Phyo;Insien;09250450045;33;Female;Cancer
+47;U Poe;Yangon;09250799586;30;Male;TV
+48;Ko Lwin;Bago;09978377464;20;Male;Asthma
+49;Ma Hla Win;Pyay;09387654345;29;Female;Asthma

@@ -1,0 +1,5 @@
+5;U Kyaw Soe;Bogalae;09978665491;Asthma;Professor;7:00-11:00p.m,8:00-12:00a.m;Mon,Wed;ShinPaGu
+23;Daw Hla Tun;Yangon;09792434342;Cancer;Rector;7:00-10:00p.m,8:00-10:00a.m;Mon,Tue;PaRaGu,ShinPaGu
+34;U Tun Moe;Mandalay;09250868901;Cancer;Prorector;8:00-2:00p.m;Mon,Wed;YangonHospital
+51;Daw Tin Mya;Yangon;09443837883;TV;Assistance;9:00-5:00p.m;Mon,Tue,Wed,Thurs,Fri;-
+63;Daw Khine Mar;Kalaw;09345572324;TV;Assistance;8:00-3:00p.m;Mon,Tue,Wed,Thurs,Fri;-
